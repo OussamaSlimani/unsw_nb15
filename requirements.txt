@@ -3,4 +3,4 @@ joblib
 lightgbm
 pandas
 gunicorn
-sklearn
+scikit-learn
