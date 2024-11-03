@@ -3,3 +3,4 @@ joblib
 lightgbm
 pandas
 gunicorn
+app
